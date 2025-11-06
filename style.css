@@ -1,0 +1,46 @@
+a{
+    text-decoration:none;
+    color: #008000;
+    border: black 1px solid;
+    border-radius: 5px;
+    background-color: aqua;
+    padding: 2px;
+    transition: all 0.2s ease-in-out;
+}
+
+a:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+.titlu {
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration:dotted;
+    text-align: start;
+}
+
+.cub{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border: 3px black dotted;
+    border-radius: 10px;
+    cursor:pointer;
+    font-family: monospace;
+    font-weight: bold;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    user-select: none;
+}
+
+.numar{
+    width: 50px;
+}
+
+.butonulDeAduna{
+    margin-top: 10px;
+}
